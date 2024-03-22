@@ -20,8 +20,41 @@ const styles = StyleSheet.create({
   imageBackground: {
     width: '100%',
     height: '100%',
+    opacity: 0.7,
+    bottom: '30%',
   },
+
+  form: {
+    width: '100%',
+    height: '40%',
+    backgroundColor: 'white',
+    position: 'absolute',
+    bottom: 0,
+    borderTopLeftRadius: 40,
+    borderTopRightRadius: 40,
+  }
+
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
